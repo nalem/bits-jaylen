@@ -8,14 +8,12 @@ A monorepo shared with Jaylen for all things BITS related
 
 ## LEARNING TO CODE
 
-https://www.codedex.io/
-www.codeacademy.com
-www.lynda.com <small>LinkedIn Learning</small>
-www.udemy.com
-www.udacity.com
-www.coursera.org
-www.w3schools.com
-www.thenewboston.org
-www.programmr.com
-www.codeavengers.com
-www.codeschool.com
+1. https://www.codedex.io/
+2. www.codeacademy.com
+3. www.udemy.com
+4. www.udacity.com
+5. www.coursera.org
+6. www.w3schools.com
+7. www.thenewboston.org
+8. www.programmr.com
+9. www.codeavengers.com
