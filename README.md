@@ -9,11 +9,11 @@ A monorepo shared with Jaylen for all things BITS related
 ## LEARNING TO CODE
 
 1. https://www.codedex.io/
-2. www.codeacademy.com
-3. www.udemy.com
-4. www.udacity.com
-5. www.coursera.org
-6. www.w3schools.com
-7. www.thenewboston.org
-8. www.programmr.com
-9. www.codeavengers.com
+2. https://www.codeacademy.com
+3. https://www.udemy.com
+4. https://www.udacity.com
+5. https://www.coursera.org
+6. https://www.w3schools.com
+7. https://www.thenewboston.org
+8. https://www.programmr.com
+9. https://www.codeavengers.com
